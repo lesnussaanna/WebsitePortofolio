@@ -1,0 +1,99 @@
+@media screen and (max-width : 1400px) {
+    #hero p{
+        font-size: .8rem;
+    }
+    #hero h1{
+        font-size: 2.3rem;
+    }
+    #hero .row{
+        padding-bottom: 75px;
+    }
+    #skill .card h3{
+        font-size: 1rem;
+    }
+    #skill .card h4{
+        font-size: 1rem;
+    }
+    #skill .card p{
+        font-size: .9rem;
+    }
+}
+@media screen and (max-width : 1400px) {
+    #hero p{
+        font-size: .8rem;
+    }
+    #hero h1{
+        font-size: 2.3rem;
+    }
+    #hero .row{
+        padding-bottom: 75px;
+    }
+    #skill .card h3{
+        font-size: 1rem;
+    }
+    #skill .card p{
+        font-size: .8rem;
+    }
+    
+    
+}
+@media screen and (max-width :1000px){
+    #skill .card{
+        height: 250px !important;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+        margin-top: 20px;
+    }
+    #portofolio img{
+        width:80%;
+        padding: 10px;
+    }
+    
+}
+@media screen and (max-width : 768px) {
+    #hero img{
+        width: 50%;
+    }
+    .social-icon{
+        left: 50%;
+        transform: translate(-50%);
+    }
+    
+    .btn-custom1{
+        width: 50%;
+    }
+    #about p {
+        text-align: justify !important;
+    }
+    #skill .card{
+        height: 250px !important;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+        margin-top: 20px;
+    }
+    #portofolio img{
+        width: 70%;
+        padding: 9px;
+    }
+    #video iframe{
+        width: 300 !important;
+    }
+}
+
+@media screen and (max-width : 576px) {
+    #hero img{
+        width: 30%;
+    }
+    #portofolio .col-md-12{
+        flex-direction: column;
+    }
+    h1 {
+        font-size: 2rem !important;
+    }
+}
+
+@media screen and (max-width : 350px) {
+    #portofolio .col-md-12{
+        flex-direction: column;
+    }
+}
