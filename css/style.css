@@ -136,8 +136,8 @@ hr{
 /* Portofolio */
 
 #portofolio {
-    margin-top: -170px;
-    padding: 270px;
+    margin-top: -200px;
+    padding: 100px;
     padding-bottom: 80px;
     background-color: var(--secondaryColor);
 }
@@ -146,12 +146,31 @@ hr{
     text-decoration: none;
 }
 #portofolio img{
-    width: 30%;
+    width: 25%;
+    padding: 10px;
+}
+/* End Portofolio */
+/* Portofolio */
+
+#lainnya {
+    padding: 100px;
+    padding-bottom: 80px;
+}
+#lainnya p, a{
+    color: #ffff !important;
+    text-decoration: none;
+}
+#lainnya img{
+    width: 20%;
     padding: 10px;
 }
 /* End Portofolio */
 #video{
-    margin: 30px;
+    margin-top: -200px;
+    padding: 100px;
+    padding-bottom: 80px;
+    background-color: var(--secondaryColor);
+    margin-bottom: 50px;
 }
 footer{
     padding: 100px;
