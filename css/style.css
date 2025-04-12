@@ -165,6 +165,37 @@ hr{
     padding: 10px;
 }
 /* End Portofolio */
+/* Web */
+
+#web {
+    margin-top: -200px;
+    padding: 100px;
+    padding-bottom: 80px;
+    background-color: var(--secondaryColor);
+    margin-bottom: 50px;
+}
+#web p, a{
+    color: #ffff !important;
+    text-decoration: none;
+}
+#web img{
+    width: 40%;
+    padding: 10px;
+}
+
+#weblainnya {
+    padding: 100px;
+    padding-bottom: 80px;
+}
+#weblainnya p, a{
+    color: #ffff !important;
+    text-decoration: none;
+}
+#weblainnya img{
+    width: 40%;
+    padding: 10px;
+}
+/* End Web */
 #video{
     margin-top: -200px;
     padding: 100px;
